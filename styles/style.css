@@ -201,8 +201,14 @@ footer a {
 
     .heading {
         flex-direction: column;
+        text-align: center;
 
 
+    }
+
+    .head-button {
+        display: flex;
+        justify-content: center;
     }
 
     .half-width {
@@ -218,6 +224,8 @@ footer a {
         background-color: #ffffff;
 
     }
+
+
 
     #about {
         flex-direction: column;
