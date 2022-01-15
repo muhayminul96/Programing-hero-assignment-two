@@ -183,6 +183,8 @@ footer {
     margin-top: 50px;
 }
 
+
+
 footer a {
     color: #fff;
     text-decoration: none;
@@ -211,8 +213,9 @@ footer a {
     .products {
 
         display: grid;
-        padding: 20px;
+        padding: 0;
         grid-template-columns: 1fr;
+        background-color: #ffffff;
 
     }
 
@@ -245,8 +248,11 @@ footer a {
     .products {
 
         display: grid;
-        padding: 20px;
+        padding: 0;
+        background-color: #ffffff;
         grid-template-columns: 1fr 1fr;
+
+
 
     }
 
